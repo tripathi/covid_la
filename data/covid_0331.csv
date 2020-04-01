@@ -1,0 +1,323 @@
+city,count,rate
+Agoura Hills,11,51.97
+Alhambra,13,14.99
+Arcadia,10,17.55
+Artesia,null,null
+Avalon,0,0
+Azusa,5,10.11
+Baldwin Park,2,2.69
+Bell,12,32.79
+Bell Gardens,4,9.34
+Bellflower,20,26.3
+Beverly Hills,35,101
+Bradbury,0,0
+Burbank,27,25.79
+Calabasas,13,53.76
+Carson,39,41.61
+Cerritos,6,12.18
+Claremont,2,5.54
+Commerce,null,null
+Compton,16,15.85
+Covina,7,14.25
+Cudahy,null,null
+Culver City,15,37.17
+Diamond Bar,3,5.25
+Downey,31,27.24
+Duarte,null,null
+El Monte,4,3.52
+El Segundo,null,null
+Gardena,12,19.78
+Glendale,76,37.7
+Glendora,7,13.4
+Hawaiian Gardens,null,null
+Hawthorne,19,21.65
+Hermosa Beach,9,45.66
+Hidden Hills,0,0
+Huntington Park,11,18.48
+Industry,0,0
+Inglewood,31,26.64
+Irwindale,0,0
+La Canada Flintridge,8,39.04
+La Habra Heights,0,0
+La Mirada,8,16.17
+La Puente,3,7.43
+La Verne,2,6.04
+Lakewood,16,20.46
+Lancaster,31,19.79
+Lawndale,6,17.97
+Lomita,null,null
+Long Beach,115,0
+Lynwood,18,24.93
+Malibu,null,null
+Manhattan Beach,40,113.73
+Maywood,6,21.33
+Monrovia,5,13.34
+Montebello,5,7.85
+Monterey Park,7,11.45
+Norwalk,21,20.03
+Palmdale,14,8.77
+Palos Verdes Estates,14,102.44
+Paramount,8,14.23
+Pasadena,25,0
+Pico Rivera,9,14.05
+Pomona,10,6.44
+Rancho Palos Verdes,13,30.3
+Redondo Beach,39,56.26
+Rolling Hills,0,0
+Rolling Hills Estates,null,null
+Rosemead,2,3.63
+San Dimas,4,11.76
+San Fernando,null,null
+San Gabriel,6,14.88
+San Marino,null,null
+Santa Clarita,48,21.88
+Santa Fe Springs,null,null
+Santa Monica,49,52.46
+Sierra Madre,null,null
+Signal Hill,null,null
+South El Monte,0,0
+South Gate,19,19.05
+South Pasadena,6,23.13
+Temple City,1,2.74
+Torrance,53,36.13
+Vernon,0,0
+Walnut,3,9.98
+West Covina,7,6.5
+West Hollywood,56,156.43
+Westlake Village,null,null
+Whittier,12,13.62
+AGGREGATE,1386,34.35
+Adams-Normandie,5,58.91
+Alsace,null,null
+Angeles National Forest,0,0
+Angelino Heights,0,0
+Arleta,7,19.94
+Atwater Village,null,null
+Baldwin Hills,11,36.67
+Bel Air,11,133.85
+Beverly Crest,20,161.36
+Beverlywood,13,97.59
+Boyle Heights,11,12.61
+Brentwood,36,115.14
+Brookside,0,0
+Cadillac-Corning,null,null
+Canoga Park,7,10.99
+Carthay,16,119.24
+Central,11,28.13
+Century City,13,107.33
+Century Palms/Cove,10,29.53
+Chatsworth,14,38.85
+Cheviot Hills,6,64.77
+Chinatown,null,null
+Cloverdale/Cochran,null,null
+Country Club Park,5,32.46
+Crenshaw District,null,null
+Crestview,13,113.58
+Del Rey,16,54.69
+Downtown,14,57.73
+Eagle Rock,10,25.53
+East Hollywood,13,43.64
+Echo Park,5,34.85
+El Sereno,3,7.19
+Elysian Park,null,null
+Elysian Valley,null,null
+Encino,30,70.53
+Exposition,0,0
+Exposition Park,7,15.49
+Faircrest Heights,0,0
+Figueroa Park Square,0,0
+Florence-Firestone,12,24.56
+Glassell Park,11,35.05
+Gramercy Place,null,null
+Granada Hills,10,17.25
+Green Meadows,7,32.21
+Hancock Park,30,182.65
+Harbor City,5,17.27
+Harbor Gateway,9,20.6
+Harbor Pines,0,0
+Harvard Heights,null,null
+Harvard Park,4,10.09
+Highland Park,9,18.68
+Historic Filipinotown,0,0
+Hollywood,61,93.93
+Hollywood Hills,29,100.43
+Hyde Park,7,23.82
+Jefferson Park,0,0
+Koreatown,14,26.61
+Lafayette Square,null,null
+Lake Balboa,11,26.4
+Lakeview Terrace,5,37.42
+Leimert Park,null,null
+Lincoln Heights,4,12.1
+Little Armenia,null,null
+Little Bangladesh,5,17.2
+Little Tokyo,null,null
+Longwood,null,null
+Los Feliz,13,60.92
+Manchester Square,null,null
+Mandeville Canyon,null,null
+Mar Vista,13,31.03
+Marina Peninsula,null,null
+Melrose,100,128.81
+Mid-city,11,73.03
+Miracle Mile,12,67.92
+Mission Hills,6,25.03
+Mt. Washington,null,null
+North Hills,9,14.77
+North Hollywood,39,25.77
+Northridge,9,13.28
+Pacific Palisades,22,106.26
+Pacoima,5,6.25
+Palisades Highlands,null,null
+Palms,25,55.36
+Panorama City,7,9.21
+Park La Brea,null,null
+Pico-Union,7,16.43
+Playa Del Rey,null,null
+Playa Vista,7,70.11
+Porter Ranch,8,24.09
+Rancho Park,null,null
+Regent Square,null,null
+Reseda,20,26.4
+Reseda Ranch,null,null
+Reynier Village,null,null
+San Pedro,14,17.99
+Shadow Hills,null,null
+Sherman Oaks,33,38.84
+Silverlake,20,46.31
+South Carthay,8,75.5
+South Park,5,12.79
+St Elmo Village,0,0
+Studio City,18,84.1
+Sun Valley,8,14.49
+Sunland,5,24.38
+Sycamore Square,0,0
+Sylmar,25,30.21
+Tarzana,26,86.02
+Temple-Beaudry,10,25.65
+Thai Town,null,null
+Toluca Lake,null,null
+Toluca Terrace,0,0
+Toluca Woods,0,0
+Tujunga,5,17.75
+University Hills,0,0
+University Park,12,44.57
+Valley Glen,7,23.45
+Valley Village,21,89.64
+Van Nuys,13,14
+Venice,18,52.73
+Vermont Knolls,null,null
+Vermont Square,null,null
+Vermont Vista,6,14.4
+Vernon Central,5,9.24
+Victoria Park,null,null
+View Heights,null,null
+Watts,7,15.94
+Wellington Square,0,0
+West Adams,12,42.67
+West Hills,10,25.56
+West Los Angeles,20,53.34
+West Vernon,13,23.94
+Westchester,17,33.47
+Westlake,10,17.04
+Westwood,28,51.45
+Wholesale District,10,26.18
+Wilmington,12,20.95
+Wilshire Center,8,15.55
+Winnetka,10,19.59
+Woodland Hills,25,38.73
+Acton,0,0
+Agua Dulce,0,0
+Altadena,12,28.26
+Anaverde,0,0
+Athens-Westmont,11,26.42
+Athens Village,null,null
+Avocado Heights,0,0
+Bassett,0,0
+Bouquet Canyon,0,0
+Canyon Country,null,null
+Castaic,3,10.59
+Charter Oak,0,0
+Covina (Charter Oak),0,0
+Del Aire,null,null
+Del Sur,0,0
+Desert View Highlands,0,0
+East Covina,0,0
+East La Mirada,null,null
+East Lancaster,0,0
+East Los Angeles,14,11.02
+East Pasadena,0,0
+East Rancho Dominguez,0,0
+East Whittier,null,null
+El Camino Village,0,0
+Elizabeth Lake,0,0
+Hacienda Heights,5,9.15
+Hi Vista,0,0
+Kagel/Lopez Canyons,0,0
+La Crescenta-Montrose,0,0
+La Rambla,null,null
+Ladera Heights,5,84.18
+Lake Hughes,0,0
+Lake Los Angeles,0,0
+Lake Manor,0,0
+Lennox,8,33.92
+Leona Valley,0,0
+Littlerock,0,0
+Littlerock/Juniper Hills,0,0
+Littlerock/Pearblossom,0,0
+Llano,0,0
+Marina del Rey,5,54.51
+Newhall,0,0
+North Lancaster,0,0
+North Whittier,null,null
+Northeast San Gabriel,0,0
+Padua Hills,0,0
+Palos Verdes Peninsula,0,0
+Pearblossom/Llano,0,0
+Pellissier Village,0,0
+Placerita Canyon,0,0
+Quartz Hill,null,null
+Rancho Dominguez,null,null
+Roosevelt,0,0
+Rosewood,0,0
+Rosewood/East Gardena,0,0
+Rosewood/West Rancho Dominguez,0,0
+Rowland Heights,3,5.9
+San Clemente Island,0,0
+San Francisquito Canyon/Boquet Canyon,0,0
+San Jose Hills,0,0
+San Pasqual,0,0
+Sand Canyon,0,0
+Santa Catalina Island,0,0
+Santa Monica Mountains,0,0
+Saugus,0,0
+Saugus/Canyon Country,0,0
+South Antelope Valley,0,0
+South Edwards,0,0
+South San Gabriel,0,0
+South Whittier,7,12.02
+Southeast Antelope Valley,0,0
+Stevenson Ranch,null,null
+Sun Village,null,null
+Sunrise Village,0,0
+Twin Lakes/Oat Mountain,0,0
+Universal City,0,0
+Val Verde,0,0
+Valencia,null,null
+Valinda,null,null
+View Park/Windsor Hills,0,0
+Walnut Park,0,0
+West Antelope Valley,0,0
+West Carson,9,41.05
+West LA,null,null
+West Puente Valley,0,0
+West Rancho Dominguez,0,0
+West Whittier/Los Nietos,0,0
+Westfield/Academy Hills,0,0
+Westhills,0,0
+White Fence Farms,0,0
+Whittier Narrows,0,0
+Willowbrook,2,5.78
+Wiseburn,null,null
+Under Investigation,309,
+Total,3011,
