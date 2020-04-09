@@ -1,178 +1,176 @@
 city,count,rate
-Agoura Hills,11,51.97
+Agoura Hills,10,47.24
 Alhambra,13,14.99
-Arcadia,10,17.55
+Arcadia,12,21.06
 Artesia,suppressed,suppressed
 Avalon,0,0
-Azusa,5,10.11
-Baldwin Park,2,2.69
+Azusa,7,14.15
+Baldwin Park,3,4.03
 Bell,12,32.79
-Bell Gardens,4,9.34
-Bellflower,20,26.3
-Beverly Hills,35,101
+Bell Gardens,5,11.68
+Bellflower,23,30.24
+Beverly Hills,39,112.55
 Bradbury,0,0
-Burbank,27,25.79
+Burbank,39,37.25
 Calabasas,13,53.76
-Carson,39,41.61
-Cerritos,6,12.18
-Claremont,2,5.54
+Carson,44,46.94
+Cerritos,8,16.24
+Claremont,3,8.31
 Commerce,suppressed,suppressed
-Compton,16,15.85
-Covina,7,14.25
+Compton,19,18.82
+Covina,9,18.32
 Cudahy,suppressed,suppressed
-Culver City,15,37.17
-Diamond Bar,3,5.25
-Downey,31,27.24
+Culver City,17,42.13
+Diamond Bar,6,10.5
+Downey,37,32.51
 Duarte,0,0
-El Monte,4,3.52
+El Monte,6,5.28
 El Segundo,suppressed,suppressed
-Gardena,12,19.78
-Glendale,76,37.7
+Gardena,14,23.07
+Glendale,86,42.66
 Glendora,7,13.4
 Hawaiian Gardens,suppressed,suppressed
-Hawthorne,19,21.65
-Hermosa Beach,9,45.66
+Hawthorne,22,25.06
+Hermosa Beach,12,60.88
 Hidden Hills,0,0
-Huntington Park,11,18.48
+Huntington Park,13,21.85
 Industry,0,0
-Inglewood,31,26.64
+Inglewood,37,31.8
 Irwindale,0,0
 La Canada Flintridge,8,39.04
 La Habra Heights,0,0
-La Mirada,8,16.17
-La Puente,3,7.43
+La Mirada,9,18.19
+La Puente,6,14.86
 La Verne,2,6.039999999999999
-Lakewood,16,20.46
-Lancaster,31,19.79
-Lawndale,6,17.97
+Lakewood,18,23.020000000000003
+Lancaster,32,20.43
+Lawndale,7,20.97
 Lomita,suppressed,suppressed
-Long Beach,115,24.606615114024915
-Lynwood,18,24.93
+Lynwood,20,27.709999999999997
 Malibu,suppressed,suppressed
-Manhattan Beach,40,113.73
-Maywood,6,21.33
-Monrovia,5,13.34
-Montebello,5,7.85
-Monterey Park,7,11.45
+Manhattan Beach,41,116.57
+Maywood,8,28.44
+Monrovia,7,18.68
+Montebello,7,10.98
+Monterey Park,9,14.72
 Norwalk,21,20.03
-Palmdale,14,8.77
-Palos Verdes Estates,14,102.44
-Paramount,8,14.23
-Pasadena,25,17.683966301433816
-Pico Rivera,9,14.05
-Pomona,10,6.44
-Rancho Palos Verdes,13,30.3
-Redondo Beach,39,56.26
+Palmdale,18,11.27
+Palos Verdes Estates,15,109.75
+Paramount,10,17.79
+Pico Rivera,14,21.86
+Pomona,13,8.38
+Rancho Palos Verdes,16,37.29
+Redondo Beach,50,72.13
 Rolling Hills,0,0
 Rolling Hills Estates,suppressed,suppressed
-Rosemead,2,3.63
-San Dimas,4,11.76
-San Fernando,suppressed,suppressed
+Rosemead,3,5.45
+San Dimas,5,14.7
+San Fernando,5,20.44
 San Gabriel,6,14.88
 San Marino,suppressed,suppressed
-Santa Clarita,48,21.88
+Santa Clarita,50,22.79
 Santa Fe Springs,suppressed,suppressed
-Santa Monica,49,52.46
+Santa Monica,53,56.74
 Sierra Madre,suppressed,suppressed
 Signal Hill,suppressed,suppressed
 South El Monte,0,0
-South Gate,19,19.05
-South Pasadena,6,23.13
+South Gate,25,25.07
+South Pasadena,7,26.99
 Temple City,1,2.74
-Torrance,53,36.13
+Torrance,63,42.95
 Vernon,0,0
-Walnut,3,9.98
+Walnut,4,13.3
 West Covina,7,6.5
-West Hollywood,56,156.43
+West Hollywood,64,178.78
 Westlake Village,suppressed,suppressed
-Whittier,12,13.62
-Los Angeles - AGGREGATE,1386,34.35
-Adams-Normandie,5,58.91
+Whittier,15,17.03
+Los Angeles - AGGREGATE,1580,39.16
+Adams-Normandie,8,94.26
 Alsace,suppressed,suppressed
 Angeles National Forest,0,0
 Angelino Heights,0,0
 Arleta,7,19.94
 Atwater Village,suppressed,suppressed
-Baldwin Hills,11,36.67
-Bel Air,11,133.85
-Beverly Crest,20,161.36
-Beverlywood,13,97.59
-Boyle Heights,11,12.61
-Brentwood,36,115.14
+Baldwin Hills,13,43.34
+Bel Air,12,146.02
+Beverly Crest,22,177.49
+Beverlywood,15,112.6
+Boyle Heights,15,17.19
+Brentwood,39,124.73
 Brookside,0,0
 Cadillac-Corning,suppressed,suppressed
-Canoga Park,7,10.99
-Carthay,16,119.24
-Central,11,28.13
-Century City,13,107.33
-Century Palms/Cove,10,29.53
-Chatsworth,14,38.85
-Cheviot Hills,6,64.77
+Canoga Park,10,15.7
+Carthay,17,126.7
+Central,13,33.24
+Century City,17,140.36
+Century Palms/Cove,11,32.48
+Chatsworth,18,49.95
+Cheviot Hills,8,86.36
 Chinatown,suppressed,suppressed
-Cloverdale/Cochran,suppressed,suppressed
-Country Club Park,5,32.46
-Crenshaw District,suppressed,suppressed
-Crestview,13,113.58
-Del Rey,16,54.69
-Downtown,14,57.73
-Eagle Rock,10,25.53
-East Hollywood,13,43.64
-Echo Park,5,34.85
-El Sereno,3,7.19
+Cloverdale/Cochran,5,33.32
+Country Club Park,8,51.93
+Crenshaw District,5,36.35
+Crestview,15,131.05
+Del Rey,17,58.1
+Downtown,15,61.86
+Eagle Rock,11,28.08
+East Hollywood,12,40.28
+Echo Park,6,41.82
+El Sereno,4,9.58
 Elysian Park,suppressed,suppressed
 Elysian Valley,suppressed,suppressed
-Encino,30,70.53
+Encino,32,75.24
 Exposition,0,0
-Exposition Park,7,15.49
-Faircrest Heights,0,0
+Exposition Park,8,17.7
+Faircrest Heights,suppressed,suppressed
 Figueroa Park Square,0,0
-Florence-Firestone,12,24.56
-Glassell Park,11,35.05
+Florence-Firestone,33,28.78625550660793
+Glassell Park,16,50.98
 Gramercy Place,suppressed,suppressed
-Granada Hills,10,17.25
-Green Meadows,7,32.21
-Hancock Park,30,182.65
-Harbor City,5,17.27
+Granada Hills,14,24.15
+Green Meadows,8,36.81
+Hancock Park,33,200.91
+Harbor City,7,24.17
 Harbor Gateway,9,20.6
 Harbor Pines,0,0
-Harvard Heights,suppressed,suppressed
+Harvard Heights,5,27.18
 Harvard Park,4,10.09
 Highland Park,9,18.68
-Historic Filipinotown,0,0
-Hollywood,61,93.93
-Hollywood Hills,29,100.43
-Hyde Park,7,23.82
+Historic Filipinotown,5,35.32
+Hollywood,67,103.17
+Hollywood Hills,32,110.82
+Hyde Park,8,27.22
 Jefferson Park,0,0
-Koreatown,14,26.61
+Koreatown,18,34.22
 Lafayette Square,suppressed,suppressed
-Lake Balboa,11,26.4
-Lakeview Terrace,5,37.42
-Leimert Park,suppressed,suppressed
-Lincoln Heights,4,12.1
+Lake Balboa,14,33.6
+Lakeview Terrace,6,44.9
+Leimert Park,7,46.34
+Lincoln Heights,5,15.13
 Little Armenia,suppressed,suppressed
-Little Bangladesh,5,17.2
+Little Bangladesh,8,27.52
 Little Tokyo,suppressed,suppressed
 Longwood,suppressed,suppressed
-Los Feliz,13,60.92
+Los Feliz,14,65.6
 Manchester Square,suppressed,suppressed
 Mandeville Canyon,suppressed,suppressed
-Mar Vista,13,31.03
-Marina Peninsula,suppressed,suppressed
-Melrose,100,128.81
-Mid-city,11,73.03
+Mar Vista,18,42.97
+Marina Peninsula,6,136.58
+Melrose,104,133.96
+Mid-city,13,86.31
 Miracle Mile,12,67.92
 Mission Hills,6,25.03
 Mt. Washington,suppressed,suppressed
-North Hills,9,14.77
-North Hollywood,39,25.77
-Northridge,9,13.28
-Pacific Palisades,22,106.26
-Pacoima,5,6.25
+North Hills,11,18.06
+North Hollywood,45,29.73
+Northridge,12,17.71
+Pacific Palisades,23,111.09
+Pacoima,7,8.76
 Palisades Highlands,suppressed,suppressed
-Palms,25,55.36
-Panorama City,7,9.21
-Park La Brea,suppressed,suppressed
-Pico-Union,7,16.43
+Palms,27,59.79
+Panorama City,11,14.47
+Park La Brea,5,36.81
+Pico-Union,9,21.13
 Playa Del Rey,suppressed,suppressed
 Playa Vista,7,70.11
 Porter Ranch,8,24.09
@@ -183,54 +181,54 @@ Reseda Ranch,suppressed,suppressed
 Reynier Village,suppressed,suppressed
 San Pedro,14,17.99
 Shadow Hills,suppressed,suppressed
-Sherman Oaks,33,38.84
-Silverlake,20,46.31
-South Carthay,8,75.5
-South Park,5,12.79
+Sherman Oaks,37,43.55
+Silverlake,25,57.89
+South Carthay,9,84.94
+South Park,11,28.14
 St Elmo Village,0,0
-Studio City,18,84.1
-Sun Valley,8,14.49
-Sunland,5,24.38
+Studio City,19,88.77
+Sun Valley,9,16.31
+Sunland,8,39
 Sycamore Square,0,0
-Sylmar,25,30.21
-Tarzana,26,86.02
-Temple-Beaudry,10,25.65
+Sylmar,30,36.25
+Tarzana,29,95.94
+Temple-Beaudry,11,28.21
 Thai Town,suppressed,suppressed
 Toluca Lake,suppressed,suppressed
 Toluca Terrace,0,0
 Toluca Woods,0,0
 Tujunga,5,17.75
 University Hills,0,0
-University Park,12,44.57
-Valley Glen,7,23.45
-Valley Village,21,89.64
-Van Nuys,13,14
+University Park,14,52
+Valley Glen,8,26.8
+Valley Village,23,98.17
+Van Nuys,17,18.31
 Venice,18,52.73
-Vermont Knolls,suppressed,suppressed
+Vermont Knolls,5,27.98
 Vermont Square,suppressed,suppressed
-Vermont Vista,6,14.4
+Vermont Vista,7,16.8
 Vernon Central,5,9.24
 Victoria Park,suppressed,suppressed
 View Heights,suppressed,suppressed
 Watts,7,15.94
 Wellington Square,0,0
-West Adams,12,42.67
+West Adams,14,49.78
 West Hills,10,25.56
-West Los Angeles,20,53.34
-West Vernon,13,23.94
-Westchester,17,33.47
-Westlake,10,17.04
-Westwood,28,51.45
+West Los Angeles,22,58.68
+West Vernon,15,27.62
+Westchester,18,35.43
+Westlake,13,22.15
+Westwood,26,47.78
 Wholesale District,10,26.18
-Wilmington,12,20.95
-Wilshire Center,8,15.55
-Winnetka,10,19.59
-Woodland Hills,25,38.73
+Wilmington,13,22.7
+Wilshire Center,12,23.32
+Winnetka,11,21.55
+Woodland Hills,29,44.93
 Acton,0,0
 Agua Dulce,0,0
-Altadena,12,28.26
+Altadena,14,32.97
 Anaverde,0,0
-Athens-Westmont,11,26.42
+Athens-Westmont,13,31.22
 Athens Village,suppressed,suppressed
 Avocado Heights,0,0
 Bassett,0,0
@@ -238,23 +236,23 @@ Bouquet Canyon,0,0
 Canyon Country,suppressed,suppressed
 Castaic,3,10.59
 Charter Oak,0,0
-Covina (Charter Oak),0,0
+Covina (Charter Oak),suppressed,suppressed
 Del Aire,suppressed,suppressed
 Del Sur,0,0
 Desert View Highlands,0,0
 East Covina,0,0
 East La Mirada,suppressed,suppressed
 East Lancaster,0,0
-East Los Angeles,14,11.02
+East Los Angeles,16,12.6
 East Pasadena,0,0
-East Rancho Dominguez,0,0
+East Rancho Dominguez,suppressed,suppressed
 East Whittier,suppressed,suppressed
-El Camino Village,0,0
+El Camino Village,suppressed,suppressed
 Elizabeth Lake,0,0
-Hacienda Heights,5,9.15
+Hacienda Heights,8,14.64
 Hi Vista,0,0
 Kagel/Lopez Canyons,0,0
-La Crescenta-Montrose,0,0
+La Crescenta-Montrose,suppressed,suppressed
 La Rambla,suppressed,suppressed
 Ladera Heights,5,84.18
 Lake Hughes,0,0
@@ -266,11 +264,12 @@ Littlerock,0,0
 Littlerock/Juniper Hills,0,0
 Littlerock/Pearblossom,0,0
 Llano,0,0
+Long Beach,133,28.458085305785335
 Marina del Rey,5,54.51
 Newhall,0,0
 North Lancaster,0,0
 North Whittier,suppressed,suppressed
-Northeast San Gabriel,0,0
+Northeast San Gabriel,suppressed,suppressed
 Padua Hills,0,0
 Palos Verdes Peninsula,0,0
 Pearblossom/Llano,0,0
@@ -282,43 +281,44 @@ Roosevelt,0,0
 Rosewood,0,0
 Rosewood/East Gardena,0,0
 Rosewood/West Rancho Dominguez,0,0
-Rowland Heights,3,5.9
+Rowland Heights,5,9.83
 San Clemente Island,0,0
 San Francisquito Canyon/Boquet Canyon,0,0
 San Jose Hills,0,0
 San Pasqual,0,0
 Sand Canyon,0,0
 Santa Catalina Island,0,0
-Santa Monica Mountains,0,0
+Santa Monica Mountains,suppressed,suppressed
 Saugus,0,0
 Saugus/Canyon Country,0,0
 South Antelope Valley,0,0
 South Edwards,0,0
-South San Gabriel,0,0
-South Whittier,7,12.02
+South San Gabriel,5,58.2
+South Whittier,8,13.74
 Southeast Antelope Valley,0,0
 Stevenson Ranch,suppressed,suppressed
 Sun Village,suppressed,suppressed
 Sunrise Village,0,0
-Twin Lakes/Oat Mountain,0,0
+Twin Lakes/Oat Mountain,suppressed,suppressed
 Universal City,0,0
 Val Verde,0,0
 Valencia,suppressed,suppressed
 Valinda,suppressed,suppressed
-View Park/Windsor Hills,0,0
+View Park/Windsor Hills,7,69.31
 Walnut Park,0,0
-West Antelope Valley,0,0
-West Carson,9,41.05
+West Antelope Valley,suppressed,suppressed
+West Carson,11,50.18
 West Chatsworth,0,0
 West LA,suppressed,suppressed
-West Puente Valley,0,0
+West Puente Valley,suppressed,suppressed
 West Rancho Dominguez,0,0
-West Whittier/Los Nietos,0,0
+West Whittier/Los Nietos,1,3.76
 Westfield/Academy Hills,0,0
 Westhills,0,0
 White Fence Farms,0,0
 Whittier Narrows,0,0
-Willowbrook,2,5.78
+Willowbrook,5,14.46
 Wiseburn,suppressed,suppressed
-Total,3011, NA
-Under Investigation, 309, NA
+Pasadena,33,23.342835517892638
+Total,3518, NA
+Under Investigation, 394, NA
